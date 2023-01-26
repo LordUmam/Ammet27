@@ -1,2 +1,8 @@
 # Ammet27
-aaa
+sebelum run file
+harus install :
+- rembg
+- easygui
+- tkinter
+
+terimakasih
